@@ -3,3 +3,5 @@ home add
 office add
 
 fetch test
+fetch test2
+fetch test3
